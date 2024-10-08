@@ -1,0 +1,233 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "<a href='https://warhammerfantasy.fandom.com/wiki/Reikland'><strong>Reikland</strong></a>",
+                "marker-group": "Reikland",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -534,-593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "<a href='https://warhammerfantasy.fandom.com/wiki/Middenland'><strong>Middenland</strong></a>",
+                "marker-group": "Middenland",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -638,-80
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "<a href='https://warhammerfantasy.fandom.com/wiki/Nordland'><strong>Nordland</strong></a>",
+                "marker-group": "Nordland",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -878,403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "<a href='https://warhammerfantasy.fandom.com/wiki/Hochland'><strong>Hochland</strong></a>",
+                "marker-group": "Hochland",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -188,468
+                ]
+            }
+	},
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "<a href='https://warhammerfantasy.fandom.com/wiki/Ostland'><strong>Ostland</strong></a>",
+                "marker-group": "Ostland",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -236,804
+                ]
+            }
+	},
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "<a href='https://warhammerfantasy.fandom.com/wiki/Talabecland'><strong>Talabecland</strong></a>",
+                "marker-group": "Talabecland",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   122,232
+                ]
+            }
+	},
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "<a href='https://warhammerfantasy.fandom.com/wiki/Ostermark'><strong>Ostermark</strong></a>",
+                "marker-group": "Ostermark",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   782,666
+                ]
+            }
+	},
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "<a href='https://warhammerfantasy.fandom.com/wiki/Sylvania'><strong>Sylvania</strong></a>",
+                "marker-group": "Sylvania",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   747,181
+                ]
+            }
+	},
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "<a href='https://warhammerfantasy.fandom.com/wiki/Mootland'><strong>Mootland</strong></a>",
+                "marker-group": "Mootland",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   746,-117
+                ]
+            }
+	},
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "<a href='https://warhammerfantasy.fandom.com/wiki/Stirland'><strong>Stirland</strong></a>",
+                "marker-group": "Stirland",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   471,-110
+                ]
+            }
+	},
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "<a href='https://warhammerfantasy.fandom.com/wiki/Averland'><strong>Averland</strong></a>",
+                "marker-group": "Averland",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   444,-516
+                ]
+            }
+	},
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "<a href='https://warhammerfantasy.fandom.com/wiki/Wissenland'><strong>Wissenland</strong></a>",
+                "marker-group": "Wissenland",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   516,-788
+                ]
+            }
+	}
+	]
+}

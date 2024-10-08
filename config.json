@@ -1,0 +1,2403 @@
+{
+    "files": {
+        "(8,13,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "fe4d9f359e4b1dd88df03de78ca1536f", 
+            "key": "(8,13,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\13\\3.png"
+        }, 
+        "(7,4,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "dbbabdda52291d1b237a917dfc678584", 
+            "key": "(7,4,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\4\\2.png"
+        }, 
+        "(8,1,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,1,14)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\1\\14.png"
+        }, 
+        "(8,8,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,8,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\8\\0.png"
+        }, 
+        "(8,5,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,5,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\5\\0.png"
+        }, 
+        "(8,7,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "eaa7783f45c6d210497183122a3ff5dc", 
+            "key": "(8,7,13)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\7\\13.png"
+        }, 
+        "(8,10,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,10,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\10\\1.png"
+        }, 
+        "(8,9,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "ba4fc99faaaa5c6ae5cac5bcffc83a34", 
+            "key": "(8,9,9)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\9\\9.png"
+        }, 
+        "(8,11,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "40dfb2dcd9a06f9ef2f1a66bfb9e36db", 
+            "key": "(8,11,13)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\11\\13.png"
+        }, 
+        "(7,3,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "ede312cfcfcae9a750c2ef51ad86139d", 
+            "key": "(7,3,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\3\\5.png"
+        }, 
+        "(8,4,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "5fcdf17d0e22c9e0b042aa7d708b03b8", 
+            "key": "(8,4,13)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\4\\13.png"
+        }, 
+        "(8,7,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "c238a404ea2b73ff24ec39b7b796ffd5", 
+            "key": "(8,7,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\7\\7.png"
+        }, 
+        "(8,14,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "09c27463934ec6c901a07baaeac2f6ff", 
+            "key": "(8,14,11)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\14\\11.png"
+        }, 
+        "(8,6,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,6,15)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\6\\15.png"
+        }, 
+        "(8,8,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "969d52b06e7c84dc1bd478e31022cbd5", 
+            "key": "(8,8,11)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\8\\11.png"
+        }, 
+        "(8,0,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "0d376da5ce4bbaa405128c0f48bf7a83", 
+            "key": "(8,0,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\0\\6.png"
+        }, 
+        "(8,9,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,9,15)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\9\\15.png"
+        }, 
+        "(8,3,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "51e57f5c451883ec2a51cbace5a6dfb7", 
+            "key": "(8,3,12)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\3\\12.png"
+        }, 
+        "(8,6,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "87ab7f62452d9512c8c2615eae2a750f", 
+            "key": "(8,6,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\6\\4.png"
+        }, 
+        "(8,5,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "4d317fcacb21bd77f72ca05dcdccc0e7", 
+            "key": "(8,5,8)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\5\\8.png"
+        }, 
+        "(8,0,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,0,15)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\0\\15.png"
+        }, 
+        "(8,2,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "043270e379d267ac721a06a906575721", 
+            "key": "(8,2,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\2\\2.png"
+        }, 
+        "(8,15,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "fc4045f518ce75b8b24522ed4435062d", 
+            "key": "(8,15,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\15\\5.png"
+        }, 
+        "(8,3,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "b426e8ea54bfd42fd4cf10d75effbcd8", 
+            "key": "(8,3,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\3\\6.png"
+        }, 
+        "(5,0,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "bef5ed349eed824d6ffee4a07aa5e193", 
+            "key": "(5,0,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\5\\0\\1.png"
+        }, 
+        "(8,9,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "5f88006ac160414d609228dc5d7e303d", 
+            "key": "(8,9,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\9\\2.png"
+        }, 
+        "(8,6,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "99abd1f8229de2d212f3aeb4aa7ab24a", 
+            "key": "(8,6,12)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\6\\12.png"
+        }, 
+        "(8,10,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "99b1223df145cffbe85624743a25f140", 
+            "key": "(8,10,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\10\\7.png"
+        }, 
+        "(7,6,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "1129879a4a6f95bf0f79773186ee2583", 
+            "key": "(7,6,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\6\\3.png"
+        }, 
+        "(8,1,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3bdd85d5f3bbbf34b74c0c35be52d428", 
+            "key": "(8,1,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\1\\2.png"
+        }, 
+        "(7,3,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3edcb20e50b8612434347be376b3000e", 
+            "key": "(7,3,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\3\\4.png"
+        }, 
+        "(8,3,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "434205412e69881d840272771485a959", 
+            "key": "(8,3,9)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\3\\9.png"
+        }, 
+        "(6,1,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "4a8ff051c48bd5fc03c94a7dac89fe51", 
+            "key": "(6,1,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\6\\1\\2.png"
+        }, 
+        "(6,3,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "79852621440dea62b8970b6b5fd709d4", 
+            "key": "(6,3,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\6\\3\\2.png"
+        }, 
+        "(8,11,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "eb5a12e5d9818c46124d44f5ed81f042", 
+            "key": "(8,11,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\11\\5.png"
+        }, 
+        "(8,12,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3eb1bfbb5d7eb6b1e733cf9b065a85b5", 
+            "key": "(8,12,13)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\12\\13.png"
+        }, 
+        "(7,6,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "c1469eb7f69db70e14ad8cb6c20e2856", 
+            "key": "(7,6,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\6\\6.png"
+        }, 
+        "(7,5,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "6900822634371ad57899c418c6a4d369", 
+            "key": "(7,5,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\5\\4.png"
+        }, 
+        "(7,5,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "eaa27099bffaa36146b7274204ddc454", 
+            "key": "(7,5,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\5\\5.png"
+        }, 
+        "(8,4,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "43e5beef34ce640edf0c16632790784c", 
+            "key": "(8,4,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\4\\3.png"
+        }, 
+        "(8,12,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "a086f59ae53aff459881a220b8a85e43", 
+            "key": "(8,12,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\12\\5.png"
+        }, 
+        "(8,8,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "1533fce82948a28f8bf3e871b79ceeed", 
+            "key": "(8,8,8)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\8\\8.png"
+        }, 
+        "(7,0,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "7d347ce536ab5d5b7eb38674a9e5f912", 
+            "key": "(7,0,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\0\\4.png"
+        }, 
+        "(8,5,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "85cd8ce64a9814d3ce4bfccedbad2885", 
+            "key": "(8,5,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\5\\3.png"
+        }, 
+        "(8,8,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,8,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\8\\1.png"
+        }, 
+        "(8,3,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "a273d70c763401c0ebbf49a2c90599f8", 
+            "key": "(8,3,13)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\3\\13.png"
+        }, 
+        "(8,10,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "598ecc3f01536b6e3a9b1b2c5a64433d", 
+            "key": "(8,10,9)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\10\\9.png"
+        }, 
+        "(8,15,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "8220f2ee090ce2e1ee7116554d2ccef8", 
+            "key": "(8,15,9)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\15\\9.png"
+        }, 
+        "(5,1,1)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "e862159e75a38461a4286b399fc7f2a6", 
+            "key": "(5,1,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\5\\1\\1.png"
+        }, 
+        "(8,12,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,12,14)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\12\\14.png"
+        }, 
+        "(7,3,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,3,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\3\\0.png"
+        }, 
+        "(8,9,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,9,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\9\\1.png"
+        }, 
+        "(8,7,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3138e09dc91bc645c53ca6889d153b2b", 
+            "key": "(8,7,10)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\7\\10.png"
+        }, 
+        "(8,0,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "37e75c394d498a0dccdc89ad1ae26600", 
+            "key": "(8,0,13)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\0\\13.png"
+        }, 
+        "(6,0,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "388eb2731b40a6174c26e653f37960d6", 
+            "key": "(6,0,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\6\\0\\1.png"
+        }, 
+        "(8,7,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "68cdc216ac24f7978bafbafd107dcb06", 
+            "key": "(8,7,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\7\\6.png"
+        }, 
+        "(8,4,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "4b28fb26bd9bc369397f02d32bd8c948", 
+            "key": "(8,4,12)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\4\\12.png"
+        }, 
+        "(8,2,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "f6c0e90c72e43c7d40e77fab7ef71ce7", 
+            "key": "(8,2,8)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\2\\8.png"
+        }, 
+        "(8,0,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,0,14)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\0\\14.png"
+        }, 
+        "(8,6,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,6,14)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\6\\14.png"
+        }, 
+        "(8,0,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "90d6a41cfc20fec245d4d174eb97db04", 
+            "key": "(8,0,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\0\\7.png"
+        }, 
+        "(7,7,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "db33234fa1b2380bd50e1f061cfa11c7", 
+            "key": "(7,7,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\7\\3.png"
+        }, 
+        "(8,5,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "69faf15bbc0fba0b8ef2ca8a061e4269", 
+            "key": "(8,5,10)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\5\\10.png"
+        }, 
+        "(7,5,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "373888fbb578fa6236b29c1d9679326b", 
+            "key": "(7,5,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\5\\3.png"
+        }, 
+        "(8,11,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "ed37a8200e6a3559e18f1a7923ad939f", 
+            "key": "(8,11,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\11\\2.png"
+        }, 
+        "(8,14,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,14,14)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\14\\14.png"
+        }, 
+        "(6,2,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "1b47264d0d6d29bcb352cfd869c8b711", 
+            "key": "(6,2,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\6\\2\\0.png"
+        }, 
+        "(8,3,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "d84f6f4b1a058b4145f972dcfa2139a1", 
+            "key": "(8,3,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\3\\5.png"
+        }, 
+        "(8,2,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "dd909524853b2c6d0632fb290946a346", 
+            "key": "(8,2,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\2\\3.png"
+        }, 
+        "(8,10,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,10,14)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\10\\14.png"
+        }, 
+        "(8,15,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,15,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\15\\0.png"
+        }, 
+        "(5,0,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "cd85ba36614d364c8c5e8bd9939609f7", 
+            "key": "(5,0,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\5\\0\\0.png"
+        }, 
+        "(8,1,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "8314844ec893d24a51735153e53a4ec3", 
+            "key": "(8,1,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\1\\5.png"
+        }, 
+        "(7,5,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,5,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\5\\0.png"
+        }, 
+        "(8,10,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "f5dca050a0cfa4af0f5bdf6c9c7db372", 
+            "key": "(8,10,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\10\\2.png"
+        }, 
+        "(8,4,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "bbc032fa3cdca6a8ffd7952d178c92a0", 
+            "key": "(8,4,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\4\\4.png"
+        }, 
+        "(8,11,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "ee6fd0ab086cfee810834e029898dce1", 
+            "key": "(8,11,8)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\11\\8.png"
+        }, 
+        "(8,13,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,13,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\13\\1.png"
+        }, 
+        "(8,14,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "9617e1ccbabff0016b7edb4ec0c66ea4", 
+            "key": "(8,14,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\14\\6.png"
+        }, 
+        "(7,6,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "5097f8d7f7db12c65bad520cdabf0e39", 
+            "key": "(7,6,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\6\\5.png"
+        }, 
+        "(6,3,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "270ce83bc9c0f2bf5403d3fcadf0bf07", 
+            "key": "(6,3,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\6\\3\\3.png"
+        }, 
+        "(8,3,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,3,14)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\3\\14.png"
+        }, 
+        "(8,8,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "1ac5e6926ed9c43dd88b1ccd7bde3389", 
+            "key": "(8,8,9)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\8\\9.png"
+        }, 
+        "(8,12,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "b68a284d250c7ca076de4ac66e4913b8", 
+            "key": "(8,12,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\12\\4.png"
+        }, 
+        "(8,6,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "dfaebab40edd34db2aaddfe59ddc05a3", 
+            "key": "(8,6,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\6\\5.png"
+        }, 
+        "(8,8,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "26e78e52ce375f301fc730f9e554c865", 
+            "key": "(8,8,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\8\\2.png"
+        }, 
+        "(8,2,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "e23f537040e604af8797e29a8b400af0", 
+            "key": "(8,2,11)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\2\\11.png"
+        }, 
+        "(8,5,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "b086b770d8ec4af0ae77b5feff8c6d88", 
+            "key": "(8,5,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\5\\2.png"
+        }, 
+        "(8,14,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "af6cf574bf383ef633de3ee7117e91de", 
+            "key": "(8,14,10)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\14\\10.png"
+        }, 
+        "(8,13,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "fb7e530283ff92fde02733316103550e", 
+            "key": "(8,13,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\13\\5.png"
+        }, 
+        "(7,7,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "d7eb747a5a475ba2833ffbcb22f9a45d", 
+            "key": "(7,7,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\7\\5.png"
+        }, 
+        "(7,0,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "aff4b880ad16a1c0a347e52327a91f07", 
+            "key": "(7,0,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\0\\5.png"
+        }, 
+        "(7,5,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3fbf6b1de865dd6b2531b5356f543328", 
+            "key": "(7,5,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\5\\1.png"
+        }, 
+        "(8,15,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "f712c7f2cf8afae4303c3ddfe4cfe4fb", 
+            "key": "(8,15,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\15\\2.png"
+        }, 
+        "(8,3,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "67b5ea5fc647c7434ea39e19a3d1322b", 
+            "key": "(8,3,10)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\3\\10.png"
+        }, 
+        "(8,9,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,9,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\9\\0.png"
+        }, 
+        "(8,0,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,0,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\0\\0.png"
+        }, 
+        "(8,12,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,12,15)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\12\\15.png"
+        }, 
+        "(8,7,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "6682fde1e3b02582c032196a892c8b99", 
+            "key": "(8,7,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\7\\5.png"
+        }, 
+        "(8,0,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "d4acc4cc6dfbeabfec90b835ccf475cc", 
+            "key": "(8,0,12)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\0\\12.png"
+        }, 
+        "(8,10,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "cef207855eed6afee342754d1e888d33", 
+            "key": "(8,10,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\10\\5.png"
+        }, 
+        "(8,9,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "ad6717a6d4953b8ff0f761698e9a8a00", 
+            "key": "(8,9,8)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\9\\8.png"
+        }, 
+        "(8,0,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "d9f2c05e2d343770a03445a8babcb317", 
+            "key": "(8,0,8)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\0\\8.png"
+        }, 
+        "(8,2,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "408f8c14053d4272c45fd682517f46d8", 
+            "key": "(8,2,9)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\2\\9.png"
+        }, 
+        "(7,4,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "90905e4f649c92d99bf816247bd2f41a", 
+            "key": "(7,4,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\4\\1.png"
+        }, 
+        "(8,4,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "6b559228a3bd734403341cf3da1c1148", 
+            "key": "(8,4,11)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\4\\11.png"
+        }, 
+        "(6,1,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "6cc5fe4fef242cc9a7d1d13c07dda60b", 
+            "key": "(6,1,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\6\\1\\3.png"
+        }, 
+        "(8,5,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "687a52f003ff3be4723451a93b26849c", 
+            "key": "(8,5,11)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\5\\11.png"
+        }, 
+        "(8,2,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,2,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\2\\0.png"
+        }, 
+        "(7,2,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,2,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\2\\7.png"
+        }, 
+        "(8,11,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "484d464ef016e966809494b7a4857e8f", 
+            "key": "(8,11,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\11\\3.png"
+        }, 
+        "(8,3,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "47d0f9149ebb451dfb072a5758f2accb", 
+            "key": "(8,3,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\3\\4.png"
+        }, 
+        "(8,14,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,14,15)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\14\\15.png"
+        }, 
+        "(7,0,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "94412eab5977b53181c4417247cb4ecd", 
+            "key": "(7,0,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\0\\3.png"
+        }, 
+        "(8,1,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "310e5e1ea90385c93504c4eb2acece4c", 
+            "key": "(8,1,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\1\\4.png"
+        }, 
+        "(8,13,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,13,15)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\13\\15.png"
+        }, 
+        "(8,14,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "67a47f5b2c154150d4be0cc72a3f5ada", 
+            "key": "(8,14,8)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\14\\8.png"
+        }, 
+        "(8,4,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "a062f297f18b25954c01a5f759e097fd", 
+            "key": "(8,4,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\4\\5.png"
+        }, 
+        "(8,15,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "58ab8992caf205dec9c67c89f5768fe7", 
+            "key": "(8,15,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\15\\3.png"
+        }, 
+        "(7,4,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "5334c53272612527008af541df0854bf", 
+            "key": "(7,4,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\4\\5.png"
+        }, 
+        "(7,0,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "c0971e3bce1439c4949b82d8ca7d7769", 
+            "key": "(7,0,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\0\\2.png"
+        }, 
+        "(7,1,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3efa19ef9acb1dcc89c9b73c7c77c68b", 
+            "key": "(7,1,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\1\\1.png"
+        }, 
+        "(8,1,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "8cb2f27fe76772ea349b9eae025dabad", 
+            "key": "(8,1,13)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\1\\13.png"
+        }, 
+        "(8,10,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "bf0ea305fb95eb627d06db5fa813d040", 
+            "key": "(8,10,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\10\\6.png"
+        }, 
+        "(8,13,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "f95dd264b76dcd0a7ba007b2cddbdbd2", 
+            "key": "(8,13,12)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\13\\12.png"
+        }, 
+        "(8,14,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "96c0e3e9eb0be5fa155b6552857f6fdd", 
+            "key": "(8,14,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\14\\5.png"
+        }, 
+        "(8,6,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "f0c86dbeb8ee88c1b70c46da1c9d5a6c", 
+            "key": "(8,6,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\6\\2.png"
+        }, 
+        "(8,8,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,8,15)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\8\\15.png"
+        }, 
+        "(7,2,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "923dadc59fa5be3e1efd71c1b95fcdf9", 
+            "key": "(7,2,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\2\\1.png"
+        }, 
+        "(8,14,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,14,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\14\\1.png"
+        }, 
+        "(8,13,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,13,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\13\\0.png"
+        }, 
+        "(7,1,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "f0eefdc93be18499ba5cdb106ea0d8fb", 
+            "key": "(7,1,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\1\\4.png"
+        }, 
+        "(8,2,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "68cf2418f5e4277ac4cd9caff9d715aa", 
+            "key": "(8,2,10)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\2\\10.png"
+        }, 
+        "(8,15,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "16b3fb6ca5a6b6fe3b02dd2d0cec0520", 
+            "key": "(8,15,8)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\15\\8.png"
+        }, 
+        "(8,12,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "2122b33b5a85a3f3416899fcf9bfe36e", 
+            "key": "(8,12,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\12\\6.png"
+        }, 
+        "(7,1,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "5b703c616be71d214f0b0d6fddb82550", 
+            "key": "(7,1,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\1\\6.png"
+        }, 
+        "(8,9,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "a39a1d48d19f9b41cff32f77fb55c315", 
+            "key": "(8,9,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\9\\3.png"
+        }, 
+        "(8,13,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "fe8a24dd00c3648c90525fef381b6e36", 
+            "key": "(8,13,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\13\\6.png"
+        }, 
+        "(8,3,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "bcfca684f2d3b44636704f9b91281447", 
+            "key": "(8,3,11)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\3\\11.png"
+        }, 
+        "(8,0,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,0,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\0\\1.png"
+        }, 
+        "(7,7,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "d97d80fd20486579e357d7101a9930fc", 
+            "key": "(7,7,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\7\\1.png"
+        }, 
+        "(8,9,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "e48f791a164913e548ac764eb312c86c", 
+            "key": "(8,9,10)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\9\\10.png"
+        }, 
+        "(8,15,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "aae5697f63c08836caae25c22f6eac14", 
+            "key": "(8,15,13)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\15\\13.png"
+        }, 
+        "(8,5,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "f9d56f58316aa6636285b8c973b327bb", 
+            "key": "(8,5,12)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\5\\12.png"
+        }, 
+        "(8,0,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "a79cd83bf159a8c2056ee1581da62472", 
+            "key": "(8,0,9)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\0\\9.png"
+        }, 
+        "(8,10,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "cd40ca82224162e03101cb12a4de4de5", 
+            "key": "(8,10,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\10\\4.png"
+        }, 
+        "(8,0,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "a6e3392993ee788a887a873afe78ce8b", 
+            "key": "(8,0,11)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\0\\11.png"
+        }, 
+        "(8,13,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "62997940ce9d55253073324ae34c9c62", 
+            "key": "(8,13,13)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\13\\13.png"
+        }, 
+        "(6,1,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "fda4ae6238d0089777bf7dd6aaec6159", 
+            "key": "(6,1,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\6\\1\\0.png"
+        }, 
+        "(6,2,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "a68dad8fb4b4ec8ce139dab40fa6fbec", 
+            "key": "(6,2,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\6\\2\\1.png"
+        }, 
+        "(8,4,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "fbf44cb8a87b84689b2859bee677744f", 
+            "key": "(8,4,10)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\4\\10.png"
+        }, 
+        "(8,8,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "e783883969c04d4f1b3e00622c2229e5", 
+            "key": "(8,8,12)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\8\\12.png"
+        }, 
+        "(8,8,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "098f22d45be0c88210cf7c0bdabadf35", 
+            "key": "(8,8,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\8\\3.png"
+        }, 
+        "(7,6,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "ade0f99356e0a4504f799e809f6703fd", 
+            "key": "(7,6,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\6\\2.png"
+        }, 
+        "(7,1,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,1,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\1\\0.png"
+        }, 
+        "(4,0,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3c88fd24f5066171ec69998cad736671", 
+            "key": "(4,0,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\4\\0\\0.png"
+        }, 
+        "(8,1,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "8ab1367d1fa28121c33354d97230c4d0", 
+            "key": "(8,1,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\1\\7.png"
+        }, 
+        "(7,5,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "7227fae08d1c927b7c0fa32138c13e9e", 
+            "key": "(7,5,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\5\\2.png"
+        }, 
+        "(8,6,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "7b019451787cab13342f3575aad04da1", 
+            "key": "(8,6,10)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\6\\10.png"
+        }, 
+        "(8,4,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "dfbc2531e668e790f3ec73583f1b5992", 
+            "key": "(8,4,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\4\\6.png"
+        }, 
+        "(6,0,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "0e45491aebb7e7adc70ed2f90b613dca", 
+            "key": "(6,0,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\6\\0\\3.png"
+        }, 
+        "(7,3,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,3,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\3\\7.png"
+        }, 
+        "(8,10,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "10aaa8b1fda504a685d497f433b5828b", 
+            "key": "(8,10,12)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\10\\12.png"
+        }, 
+        "(8,13,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,13,14)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\13\\14.png"
+        }, 
+        "(8,15,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,15,14)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\15\\14.png"
+        }, 
+        "(7,6,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "a607e45cf5aa1967199b2264d140f4b9", 
+            "key": "(7,6,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\6\\1.png"
+        }, 
+        "(8,14,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "7ce0d9c1a499fb8a73777cc608109eb4", 
+            "key": "(8,14,13)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\14\\13.png"
+        }, 
+        "(8,5,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "d79a488068808a174104ccb33a5f2b50", 
+            "key": "(8,5,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\5\\5.png"
+        }, 
+        "(7,4,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "c2e4958fc00b27f36080c2d1d02fd5fa", 
+            "key": "(7,4,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\4\\6.png"
+        }, 
+        "(8,14,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "1a4a768158a3d6152854c2bace7416c1", 
+            "key": "(8,14,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\14\\4.png"
+        }, 
+        "(8,6,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "b23a5915ba2ed530752ec0b95d215002", 
+            "key": "(8,6,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\6\\3.png"
+        }, 
+        "(7,4,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "d0d29c96af539d093e367a0e2dbf2377", 
+            "key": "(7,4,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\4\\3.png"
+        }, 
+        "(7,1,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "2d30ab2b1c3a03c32a75dc96ecd8b500", 
+            "key": "(7,1,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\1\\5.png"
+        }, 
+        "(8,8,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,8,14)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\8\\14.png"
+        }, 
+        "(8,3,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "df2db13e872dc45e4ee135b7d44c4ab6", 
+            "key": "(8,3,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\3\\2.png"
+        }, 
+        "(8,11,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "4cceaafbe64f6a575bef26ef25a94927", 
+            "key": "(8,11,9)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\11\\9.png"
+        }, 
+        "(6,2,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "0989dced4f9895bc1025fe4f5fdf4ebb", 
+            "key": "(6,2,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\6\\2\\3.png"
+        }, 
+        "(8,2,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "5d538b980f56faed6b8e9d7b21dcd0e8", 
+            "key": "(8,2,13)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\2\\13.png"
+        }, 
+        "(8,0,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "c05f89c4b23713983c9b5150d60d748c", 
+            "key": "(8,0,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\0\\2.png"
+        }, 
+        "(8,12,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "b9a934118438c934c6a10ac62096da38", 
+            "key": "(8,12,9)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\12\\9.png"
+        }, 
+        "(6,1,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "7fb5b6effa3413fae753acf1003d80c6", 
+            "key": "(6,1,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\6\\1\\1.png"
+        }, 
+        "(8,11,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,11,14)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\11\\14.png"
+        }, 
+        "(8,13,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "f56496c2bfcd4d65e0e001b56ad5bd4c", 
+            "key": "(8,13,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\13\\7.png"
+        }, 
+        "(7,7,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "e95abd2da492601c5331087395177623", 
+            "key": "(7,7,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\7\\4.png"
+        }, 
+        "(8,1,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "e03762c02922b728977d3840fca4caa5", 
+            "key": "(8,1,9)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\1\\9.png"
+        }, 
+        "(8,11,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,11,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\11\\0.png"
+        }, 
+        "(8,3,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,3,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\3\\1.png"
+        }, 
+        "(8,9,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "c871f30ff0e6b4ec511c285c4cd0aea7", 
+            "key": "(8,9,11)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\9\\11.png"
+        }, 
+        "(8,12,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "20fa2f31a68afc8ee19eda92f86ee5eb", 
+            "key": "(8,12,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\12\\7.png"
+        }, 
+        "(7,2,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "1db5b6f9d34d84fe4cead28aa54fa403", 
+            "key": "(7,2,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\2\\6.png"
+        }, 
+        "(8,15,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "cdc7e7bc63cb41e40f3ed00d9b0d1197", 
+            "key": "(8,15,12)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\15\\12.png"
+        }, 
+        "(8,1,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,1,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\1\\1.png"
+        }, 
+        "(8,15,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "f616012e592cf3641ddad92af401d255", 
+            "key": "(8,15,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\15\\6.png"
+        }, 
+        "(8,0,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "fa3e9c9f16f8c3be31cef14e71812bda", 
+            "key": "(8,0,10)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\0\\10.png"
+        }, 
+        "(8,8,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "e7f876cb09db525414e49b5b0dd8cc9b", 
+            "key": "(8,8,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\8\\4.png"
+        }, 
+        "(8,10,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "f6fb101203939a07ef52df59c9407cb4", 
+            "key": "(8,10,13)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\10\\13.png"
+        }, 
+        "(8,12,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,12,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\12\\0.png"
+        }, 
+        "(7,7,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "b41caa3f5e79ba0e8c94c14b7509bcc4", 
+            "key": "(7,7,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\7\\2.png"
+        }, 
+        "(7,0,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "6620d77b44640f5a01c8434a80b653e2", 
+            "key": "(7,0,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\0\\6.png"
+        }, 
+        "(7,0,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,0,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\0\\0.png"
+        }, 
+        "(8,1,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "f9b878f8f1377c8b2cfc9f66811b16a5", 
+            "key": "(8,1,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\1\\6.png"
+        }, 
+        "(6,0,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "8909cc60c61446e68afdc0d207e2da3f", 
+            "key": "(6,0,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\6\\0\\0.png"
+        }, 
+        "(8,4,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "1f51abee124630192f99ac5de65df462", 
+            "key": "(8,4,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\4\\7.png"
+        }, 
+        "(8,11,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,11,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\11\\1.png"
+        }, 
+        "(8,8,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "b3db2cf3a3b320fcb1aca843af165f49", 
+            "key": "(8,8,13)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\8\\13.png"
+        }, 
+        "(8,6,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "1309ab80c9c83f017df3183249dabedd", 
+            "key": "(8,6,8)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\6\\8.png"
+        }, 
+        "(8,7,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "338cd6c1d719103e059c2e26ed6b784b", 
+            "key": "(8,7,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\7\\4.png"
+        }, 
+        "(8,12,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,12,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\12\\1.png"
+        }, 
+        "(7,7,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,7,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\7\\7.png"
+        }, 
+        "(7,5,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,5,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\5\\7.png"
+        }, 
+        "(8,6,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,6,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\6\\0.png"
+        }, 
+        "(8,5,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "71617c5734a12307751482ec96f50a5f", 
+            "key": "(8,5,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\5\\4.png"
+        }, 
+        "(5,1,0)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "442a566187c5180311a2cd0e73f9c732", 
+            "key": "(5,1,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\5\\1\\0.png"
+        }, 
+        "(8,1,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "8b68ec4a6c36483fafdf70f60322a653", 
+            "key": "(8,1,10)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\1\\10.png"
+        }, 
+        "(8,2,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "6efb563215f99a985b0b8a9da413925f", 
+            "key": "(8,2,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\2\\6.png"
+        }, 
+        "(8,14,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "25a48111fd6e22763fb59e0c1f1560fb", 
+            "key": "(8,14,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\14\\3.png"
+        }, 
+        "(7,2,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "784f519ec0c40fd56376f9c084e1086e", 
+            "key": "(7,2,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\2\\4.png"
+        }, 
+        "(8,12,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "c663e747bba2494caccecaa09545e246", 
+            "key": "(8,12,10)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\12\\10.png"
+        }, 
+        "(8,7,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,7,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\7\\0.png"
+        }, 
+        "(8,9,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "67ffac582680368a6808eb0d8fd51999", 
+            "key": "(8,9,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\9\\5.png"
+        }, 
+        "(7,6,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,6,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\6\\7.png"
+        }, 
+        "(7,6,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,6,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\6\\0.png"
+        }, 
+        "(8,3,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "eeb2acb42268ab46694e6367430ebec3", 
+            "key": "(8,3,8)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\3\\8.png"
+        }, 
+        "(8,2,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "2b87db1553879a43dafbed7b4858bfac", 
+            "key": "(8,2,12)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\2\\12.png"
+        }, 
+        "(8,4,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "da602e25eb9c11aa0dd3282beff8a6c3", 
+            "key": "(8,4,8)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\4\\8.png"
+        }, 
+        "(8,15,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "4e53820e9ade4415485f39141ca1444d", 
+            "key": "(8,15,10)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\15\\10.png"
+        }, 
+        "(8,1,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "93b69b0554a71c11d7ce2ab3ffa4bf2d", 
+            "key": "(8,1,8)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\1\\8.png"
+        }, 
+        "(8,5,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,5,14)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\5\\14.png"
+        }, 
+        "(8,1,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,1,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\1\\0.png"
+        }, 
+        "(8,9,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "b62fa59b4af89f069014aad6e3db4201", 
+            "key": "(8,9,12)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\9\\12.png"
+        }, 
+        "(8,8,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "614ecb2659d2fa3533d22dfc4adb4bb1", 
+            "key": "(8,8,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\8\\5.png"
+        }, 
+        "(8,5,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "da5b5ac798d9c69ea04ccc780c84b587", 
+            "key": "(8,5,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\5\\6.png"
+        }, 
+        "(7,5,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "86d2d68292fd24074309d532ef1aa054", 
+            "key": "(7,5,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\5\\6.png"
+        }, 
+        "(8,13,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "47eecf26e08bfbe632e175cfee44a3c4", 
+            "key": "(8,13,11)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\13\\11.png"
+        }, 
+        "(8,13,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "14d544659b8418a2769c009d76ef8f32", 
+            "key": "(8,13,8)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\13\\8.png"
+        }, 
+        "(8,15,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "180a89bf4e535940069229460c49c873", 
+            "key": "(8,15,11)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\15\\11.png"
+        }, 
+        "(8,7,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "249bbd390de4eb748ca2906828eb2a02", 
+            "key": "(8,7,11)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\7\\11.png"
+        }, 
+        "(8,4,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,4,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\4\\0.png"
+        }, 
+        "(8,15,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,15,15)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\15\\15.png"
+        }, 
+        "(8,5,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "fa2d32049f7e412ebc8e87258e6a8aae", 
+            "key": "(8,5,13)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\5\\13.png"
+        }, 
+        "(8,6,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "16975cca75d57366b23e52cd4821531d", 
+            "key": "(8,6,11)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\6\\11.png"
+        }, 
+        "(7,1,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "57db1c80cfc047e3d295c48e22b41bcd", 
+            "key": "(7,1,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\1\\2.png"
+        }, 
+        "(8,7,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "4a08bc205b8f2d02e09430613cec012b", 
+            "key": "(8,7,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\7\\3.png"
+        }, 
+        "(8,6,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "fcab5b710dcd9863e5b5385b8c73e1ed", 
+            "key": "(8,6,9)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\6\\9.png"
+        }, 
+        "(8,11,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "58e832f038c4e2fa567bcee302adaa40", 
+            "key": "(8,11,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\11\\6.png"
+        }, 
+        "(8,9,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "4734fa524c0499e023981e4ffb009523", 
+            "key": "(8,9,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\9\\6.png"
+        }, 
+        "(8,5,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "fc54e5e24ac2c51d896a2c7aac2f8251", 
+            "key": "(8,5,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\5\\7.png"
+        }, 
+        "(7,3,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "59ed9b9fb701aea1a36f886818d018d4", 
+            "key": "(7,3,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\3\\6.png"
+        }, 
+        "(8,10,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "9aacfc32bf846d59df8aec7e395e6d4d", 
+            "key": "(8,10,10)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\10\\10.png"
+        }, 
+        "(8,6,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,6,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\6\\1.png"
+        }, 
+        "(7,4,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,4,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\4\\0.png"
+        }, 
+        "(7,7,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,7,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\7\\0.png"
+        }, 
+        "(7,3,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "f9db351ecbc012f8bd964d6c98dfe763", 
+            "key": "(7,3,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\3\\3.png"
+        }, 
+        "(8,2,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "cc4af892557a9f0efc34c90fe760c0d5", 
+            "key": "(8,2,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\2\\7.png"
+        }, 
+        "(8,1,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "6ce896a6e66687d47cf6d6116ad2ac4b", 
+            "key": "(8,1,11)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\1\\11.png"
+        }, 
+        "(7,4,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,4,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\4\\7.png"
+        }, 
+        "(8,14,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "0318f43f288d16e35794b7743385f4d8", 
+            "key": "(8,14,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\14\\2.png"
+        }, 
+        "(8,9,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3415dfefe1c3311a66939363566390f9", 
+            "key": "(8,9,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\9\\4.png"
+        }, 
+        "(8,0,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "8710a89807d405b6aee3843f7fa7337f", 
+            "key": "(8,0,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\0\\4.png"
+        }, 
+        "(8,12,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "03a5e74febef599fba9bcfc342823dd1", 
+            "key": "(8,12,11)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\12\\11.png"
+        }, 
+        "(7,2,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,2,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\2\\0.png"
+        }, 
+        "(8,3,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "06ca60b6949836d2b7febb4c428973a0", 
+            "key": "(8,3,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\3\\3.png"
+        }, 
+        "(8,11,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "199832bc539fb28f05a6267cf0263e3b", 
+            "key": "(8,11,11)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\11\\11.png"
+        }, 
+        "(8,4,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "ee2464c2adc20702fe133f6d1b726799", 
+            "key": "(8,4,9)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\4\\9.png"
+        }, 
+        "(8,10,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "b045d3d2d000d92e9af3af197dffb888", 
+            "key": "(8,10,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\10\\3.png"
+        }, 
+        "(6,3,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "02667976293581729140a06711d65ac2", 
+            "key": "(6,3,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\6\\3\\0.png"
+        }, 
+        "(8,2,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,2,15)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\2\\15.png"
+        }, 
+        "(8,4,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,4,15)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\4\\15.png"
+        }, 
+        "(8,1,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "2ccb42f74b8582de2031e66b09809bbb", 
+            "key": "(8,1,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\1\\3.png"
+        }, 
+        "(8,10,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,10,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\10\\0.png"
+        }, 
+        "(8,5,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,5,15)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\5\\15.png"
+        }, 
+        "(8,8,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "62cc448978915c073c66579267316be5", 
+            "key": "(8,8,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\8\\6.png"
+        }, 
+        "(8,14,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "d15d9235eec4b17c74e3552aeed96b5e", 
+            "key": "(8,14,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\14\\7.png"
+        }, 
+        "(8,9,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "390e9c217290d2e1f575d98fd9cc9009", 
+            "key": "(8,9,13)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\9\\13.png"
+        }, 
+        "(7,2,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "73bd57aa17802f4f81cf4da0440e0e92", 
+            "key": "(7,2,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\2\\3.png"
+        }, 
+        "(8,14,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "c32fea3b185183cec03bc0851560a0a6", 
+            "key": "(8,14,9)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\14\\9.png"
+        }, 
+        "(8,7,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "338df07a846db6dd292e7b65a1eeb50e", 
+            "key": "(8,7,9)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\7\\9.png"
+        }, 
+        "(7,0,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,0,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\0\\7.png"
+        }, 
+        "(8,13,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "746fd3160e43884321d64474e815cd2a", 
+            "key": "(8,13,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\13\\4.png"
+        }, 
+        "(8,4,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,4,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\4\\1.png"
+        }, 
+        "(8,13,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "68a1ed9f771847b7c24757543b3d1fa4", 
+            "key": "(8,13,9)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\13\\9.png"
+        }, 
+        "(8,15,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,15,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\15\\1.png"
+        }, 
+        "(8,1,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,1,15)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\1\\15.png"
+        }, 
+        "(8,6,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "c354a8c464e2699e4f4ff05f382eae73", 
+            "key": "(8,6,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\6\\6.png"
+        }, 
+        "(8,7,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "783938fc64918b32df1be8f54bbb364d", 
+            "key": "(8,7,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\7\\2.png"
+        }, 
+        "(8,0,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3e832445377cc92a76af19f68058fab5", 
+            "key": "(8,0,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\0\\3.png"
+        }, 
+        "(7,0,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "c5f5f1052188a5b96bc86bf5e4afb3e0", 
+            "key": "(7,0,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\0\\1.png"
+        }, 
+        "(8,11,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "a0f605a6747b09ef964e6960fafb56dd", 
+            "key": "(8,11,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\11\\7.png"
+        }, 
+        "(8,3,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,3,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\3\\0.png"
+        }, 
+        "(8,15,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "a7c77ace37caae02a4f664b283fcde1b", 
+            "key": "(8,15,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\15\\4.png"
+        }, 
+        "(8,11,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,11,15)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\11\\15.png"
+        }, 
+        "(8,11,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "a3bed05c89d1413300fc2528caae4e7d", 
+            "key": "(8,11,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\11\\4.png"
+        }, 
+        "(8,2,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "260f4fce516ef4a7975ddeaa4875591d", 
+            "key": "(8,2,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\2\\4.png"
+        }, 
+        "(8,10,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "9d223755ffa1509624bb535715a5b06b", 
+            "key": "(8,10,11)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\10\\11.png"
+        }, 
+        "(8,12,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "888de4ab429d7f06a4caf26fe4efedda", 
+            "key": "(8,12,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\12\\3.png"
+        }, 
+        "(8,7,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,7,14)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\7\\14.png"
+        }, 
+        "(8,7,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,7,15)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\7\\15.png"
+        }, 
+        "(8,12,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "038c487de5512874eb76a5af649bd598", 
+            "key": "(8,12,8)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\12\\8.png"
+        }, 
+        "(7,7,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "45918b820e51e4bd8127a18329b3e493", 
+            "key": "(7,7,6)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\7\\6.png"
+        }, 
+        "(8,1,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "ada75da092fa5531e03d29ce6ac158a7", 
+            "key": "(8,1,12)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\1\\12.png"
+        }, 
+        "(8,3,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,3,15)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\3\\15.png"
+        }, 
+        "(8,0,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "ac49f3120626b9cc086bb7d5914059db", 
+            "key": "(8,0,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\0\\5.png"
+        }, 
+        "(7,1,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(7,1,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\1\\7.png"
+        }, 
+        "(7,4,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "eeae2e1a77ebe86c5e11a5822b96c0cc", 
+            "key": "(7,4,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\4\\4.png"
+        }, 
+        "(8,14,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,14,0)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\14\\0.png"
+        }, 
+        "(7,2,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "5292d62a7d95a327ebaacdcb39a92a8b", 
+            "key": "(7,2,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\2\\5.png"
+        }, 
+        "(8,12,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "8f54886fcc986e4b6c3ce8e5e8f29724", 
+            "key": "(8,12,12)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\12\\12.png"
+        }, 
+        "(7,3,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "b659a06c80805c03521fe005d3e3c784", 
+            "key": "(7,3,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\3\\1.png"
+        }, 
+        "(8,7,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "cc3131515edd2adb41c89542979925fe", 
+            "key": "(8,7,12)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\7\\12.png"
+        }, 
+        "(8,5,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,5,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\5\\1.png"
+        }, 
+        "(8,11,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "9658e1901582695b9ce53ea181df232b", 
+            "key": "(8,11,10)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\11\\10.png"
+        }, 
+        "(8,15,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "f462c46f91340d78cbd3d745bf7fa453", 
+            "key": "(8,15,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\15\\7.png"
+        }, 
+        "(8,2,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,2,14)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\2\\14.png"
+        }, 
+        "(8,4,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,4,14)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\4\\14.png"
+        }, 
+        "(8,8,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "c25e974455a6e243592a0a6ef7127eaf", 
+            "key": "(8,8,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\8\\7.png"
+        }, 
+        "(7,1,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "9622450df1bfff5acc9519a45a5bef5c", 
+            "key": "(7,1,3)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\1\\3.png"
+        }, 
+        "(8,7,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "009c1f61f227533bec1c4cc9064fdd7c", 
+            "key": "(8,7,8)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\7\\8.png"
+        }, 
+        "(8,9,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "11777e03bf0e653f35f03f5db9808356", 
+            "key": "(8,9,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\9\\7.png"
+        }, 
+        "(8,9,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,9,14)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\9\\14.png"
+        }, 
+        "(8,13,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "e8539ad93b0af30badd40fdadb5f7de1", 
+            "key": "(8,13,10)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\13\\10.png"
+        }, 
+        "(8,5,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "76943ac6df093678c6a97be31dd99f76", 
+            "key": "(8,5,9)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\5\\9.png"
+        }, 
+        "(8,7,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,7,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\7\\1.png"
+        }, 
+        "(8,6,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "23c0ae6c763f1db223877a4269ac883b", 
+            "key": "(8,6,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\6\\7.png"
+        }, 
+        "(8,11,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "0c59100f97ba69c4c1cba0cef1b00f8d", 
+            "key": "(8,11,12)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\11\\12.png"
+        }, 
+        "(7,3,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "06c0148b2a2ba0f06890b5b14a8fde58", 
+            "key": "(7,3,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\3\\2.png"
+        }, 
+        "(8,3,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "a16dc6f0bad4bd4984493f650ef8b7a3", 
+            "key": "(8,3,7)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\3\\7.png"
+        }, 
+        "(8,6,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "4e8cce84e806bf5f9a7685e32179c447", 
+            "key": "(8,6,13)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\6\\13.png"
+        }, 
+        "(6,2,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "816865a44c986cc2f82c8612522d66f5", 
+            "key": "(6,2,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\6\\2\\2.png"
+        }, 
+        "(8,8,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "704ef793c84bdd6e5cb5526c2f6d8b44", 
+            "key": "(8,8,10)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\8\\10.png"
+        }, 
+        "(8,2,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "419803d8ec32d806cc895060fdad8c0b", 
+            "key": "(8,2,5)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\2\\5.png"
+        }, 
+        "(7,2,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "a3ecdfde740dce788da8271736cdaf46", 
+            "key": "(7,2,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\2\\2.png"
+        }, 
+        "(8,10,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "a5102fa3e26aa2b9d5ccf173aacbbddf", 
+            "key": "(8,10,8)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\10\\8.png"
+        }, 
+        "(8,10,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,10,15)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\10\\15.png"
+        }, 
+        "(8,12,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "abc5c26935f612c0d6990fea90d1cfb8", 
+            "key": "(8,12,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\12\\2.png"
+        }, 
+        "(8,14,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "8ee3edb33d5540eac577e868179c3283", 
+            "key": "(8,14,12)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\14\\12.png"
+        }, 
+        "(6,3,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "7d8fed07752af206fb1a80828ad651f3", 
+            "key": "(6,3,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\6\\3\\1.png"
+        }, 
+        "(8,2,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(8,2,1)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\2\\1.png"
+        }, 
+        "(8,4,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "069a6132da8a55c331105984b7c3fa82", 
+            "key": "(8,4,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\4\\2.png"
+        }, 
+        "(6,0,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "cb4b3aa8a1da22acb7819d1c7d884855", 
+            "key": "(6,0,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\6\\0\\2.png"
+        }, 
+        "(7,6,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "939f0d9f435dab5e83434b2203e2988f", 
+            "key": "(7,6,4)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\7\\6\\4.png"
+        }, 
+        "(8,13,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "082743ca206d4cfa0096623386a30e14", 
+            "key": "(8,13,2)", 
+            "filename": "C:\\Users\\Erik Neuser\\Desktop\\Warhammer Map\\Middenland\\8\\13\\2.png"
+        }
+    }, 
+    "status": {
+        "notdone": 0, 
+        "progress": 1.0, 
+        "skipped": 0, 
+        "done": 341
+    }, 
+    "minzoom": 4, 
+    "errors": {
+        "count": 0, 
+        "log": {}
+    }, 
+    "referencesize": 4096
+}
